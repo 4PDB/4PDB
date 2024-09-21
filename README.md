@@ -1,18 +1,6 @@
 # ✨ Welcome to My GitHub Profile! ✨
 
-<h1>
-  ······················································· <br>
-  :                                                     : <br>
-  :     ___   ___  ________  ________  ________         : <br>
-  :    |\  \ |\  \|\   __  \|\   ___ \|\   __  \        : <br>
-  :    \ \  \\_\  \ \  \|\  \ \  \_|\ \ \  \|\ /_       : <br>
-  :     \ \______  \ \   ____\ \  \ \\ \ \   __  \      : <br>
-  :      \|_____|\  \ \  \___|\ \  \_\\ \ \  \|\  \     : <br>
-  :             \ \__\ \__\    \ \_______\ \_______\    : <br>
-  :              \|__|\|__|     \|_______|\|_______|    : <br>
-  :                                                     : <br>
-  ······················································· <br>
-</h1>
+
 
 ## 👤 About Me
 I’m [Your Name], a passionate [Your Role, e.g., software developer, data scientist] with a keen interest in [your interests, e.g., AI, web development]. I love building [type of projects you enjoy, e.g., scalable web applications, data-driven solutions] that solve real-world problems.
