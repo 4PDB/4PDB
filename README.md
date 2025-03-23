@@ -44,40 +44,46 @@ Thank you for visiting my profile! Let’s connect and collaborate! 🌟
 <details>
   <summary>🇪🇸 Español</summary>
 
-## 👤 Sobre Mí
-Soy **Alther Dallar**, también conocido como **4PDB**, un **desarrollador frontend y de videojuegos** con más de **dos años de experiencia** en desarrollo y optimización de código para **páginas web y videojuegos**. También soy **aprendiz de modelado 3D** y **hacking ético**, mejorando mis habilidades constantemente.  
+## 👤 Acerca de Mí 💡
+Soy **Alther Dallar**, conocido como **4PDB** 🎮💻, un **desarrollador frontend y de videojuegos** con experiencia en **desarrollo web, diseño de juegos y ciberseguridad**. También soy un **modelador 3D principiante** 🎨 y un **entusiasta del hacking ético** 🛡️, siempre en busca de nuevos aprendizajes.
 
-Tengo una **gran capacidad de aprendizaje y un enfoque poco convencional** para resolver problemas, con el objetivo de aportar **flexibilidad e innovación** a mis diseños y programas. Mi trabajo abarca desde **diseños web simples y estáticos** hasta **scripts de automatización para Linux, Windows y Mac**.  
+Tengo una **rápida capacidad de aprendizaje 🚀 y un enfoque poco convencional** para resolver problemas, con el objetivo de aportar **flexibilidad e innovación** 🔥 a mis proyectos. Mi trabajo abarca desde **aplicaciones web interactivas** 🖥️ hasta **scripts de automatización para múltiples plataformas** ⚙️.
 
-Hablo **inglés (B1)** y actualmente estoy aprendiendo **japonés y ruso**.
+Hablo **inglés (B1) 🇬🇧** y actualmente estoy aprendiendo **japonés 🇯🇵 y ruso 🇷🇺**.
 
-## 🌱 Actualmente Aprendiendo
-- **Hacking Ético & Ciberseguridad**
-- **JavaScript Avanzado & Desarrollo Frontend**
-- **Modelado 3D & Diseño de Videojuegos**
-- **Japonés & Ruso**
+## 🌱 Actualmente Aprendiendo 📚
+- **Ciberseguridad y Hacking Ético 🛡️**
+- **JavaScript Avanzado y Optimización Web ⚡**
+- **Modelado 3D y Diseño de Videojuegos 🎮**
+- **Japonés y Ruso 🌍**
 
-## 💻 Proyectos
-Algunos de mis proyectos destacados:
-- **[Nombre del Proyecto 1](link-to-project)**: Breve descripción de lo que hace este proyecto.
-- **[Nombre del Proyecto 2](link-to-project)**: Breve descripción de lo que hace este proyecto.
-- **[Nombre del Proyecto 3](link-to-project)**: Breve descripción de lo que hace este proyecto.
+## 💻 Proyectos 🚀
+Estos son algunos de mis proyectos destacados:
+- **[Proyecto Alpha](link-to-project) 🔗**: Una aplicación web dinámica centrada en el rendimiento y la experiencia de usuario.
+- **[Prototipo de Juego X](link-to-project) 🎮**: Un prototipo que mezcla narrativa con jugabilidad interactiva.
+- **[Script de Automatización Y](link-to-project) ⚙️**: Una herramienta de automatización multiplataforma para mejorar la eficiencia del flujo de trabajo.
 
-## 📩 Contacto
-Si deseas comunicarte conmigo, aquí tienes mis redes:
-- **Email**: [tu-email@example.com]
-- **Twitter**: [@tuusuario](https://twitter.com/tuusuario)
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
+## 📝 Publicaciones del Blog ✍️
+Me gusta compartir ideas y experiencias. Echa un vistazo a algunas de mis publicaciones en el blog:
+- **[El Futuro del Desarrollo Web](link-to-post) 📖**
+- **[Diseño de Juegos: Balanceo de Mecánicas](link-to-post) 📖**
+- **[Consejos de Ciberseguridad para Desarrolladores](link-to-post) 📖**
 
-## 🛠️ Tecnologías & Herramientas
-- **Lenguajes**: JavaScript, Python
-- **Frameworks**: React, Node.js
-- **Herramientas**: Git, Docker, Linux
+## 📩 Contáctame 📬
+No dudes en contactarme:
+- **Correo**: [your-email@example.com] 📧
+- **Twitter**: [@yourusername](https://twitter.com/yourusername) 🐦
+- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/yourprofile) 🔗
 
-## 🎉 Datos Curiosos
-- Me interesa profundamente la ciberseguridad y el hacking ético.
-- Me fascina la intersección entre la tecnología y el arte en el desarrollo de videojuegos.
+## 🛠️ Tecnologías y Herramientas 🔧
+- **Lenguajes**: JavaScript, Python, C++, TypeScript 🐍
+- **Frameworks y Librerías**: React, Node.js, Three.js, Next.js ⚛️
+- **Herramientas y Plataformas**: Git, Docker, Linux, Blender, Figma 🖥️
 
-¡Gracias por visitar mi perfil! ¡Conectemos y colaboremos! 🌟
+## 🎉 Datos Curiosos 😎
+- Tengo un gran interés en la ciberseguridad y el hacking ético 🕵️‍♂️.
+- Me apasiona la fusión de la tecnología y la creatividad en el desarrollo de videojuegos 🎨🎮.
+
+¡Gracias por visitar mi perfil! ¡Conectemos y colaboremos! 🌟✨
 
 </details>
